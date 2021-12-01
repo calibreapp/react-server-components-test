@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "moment": "^2.29.1",
-    "next": "^12.0.5-canary.12",
+    "next": "^12.0.5-canary.13",
     "react": "^18.0.0-beta-0cc724c77-20211125",
     "react-dom": "^18.0.0-beta-0cc724c77-20211125"
   },
