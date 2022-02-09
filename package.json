@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "moment": "^2.29.1",
-    "next": "^12.0.5-canary.13",
-    "react": "^18.0.0-beta-0cc724c77-20211125",
-    "react-dom": "^18.0.0-beta-0cc724c77-20211125"
+    "next": "^12.0.10",
+    "react": "^18.0.0-rc.0-next-9d4e8e84f-20220207",
+    "react-dom": "^18.0.0-rc.0-next-9d4e8e84f-20220207"
   },
   "devDependencies": {
     "eslint": "7.32.0",
