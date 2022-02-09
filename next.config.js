@@ -1,4 +1,5 @@
 module.exports = {
+  swcMinify: true,
   productionBrowserSourceMaps: true,
   reactStrictMode: true,
   experimental: {
